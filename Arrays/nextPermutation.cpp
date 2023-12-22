@@ -4,7 +4,7 @@
     link : https://leetcode.com/problems/next-permutation/description/
 */
 
-// brute forse
+// brute force
 void swap(std::vector<int> &nums, int i, int l)
 {
     int temp = nums[i];
