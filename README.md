@@ -1,2 +1,2 @@
 # DSA-solution
-This is for my dsa practise. All solution is in C++ and problem are from apni kaksha. further i will upload solution in java and python.
+This is for my DSA Practice. All solution is in C++ and problem are from GFG and Leetcode. further, i will upload solution in java and python.
